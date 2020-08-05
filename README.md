@@ -1,4 +1,4 @@
-Spotify playlist_analysis
+Spotify Playlist Analysis
 
 A work-in-progress Machine Learning analysis of my PopConnoisseur Spotify playlist and the Billboard Hot 100 using Spotipy, Pandas, Seaborn, Tensorflow and Scikit-learn.
 
