@@ -7,7 +7,7 @@ A work-in-progress Machine Learning analysis of Spotify's song features data for
 
 I use the packages Numpy, Pandas, Seaborn, Scikit and Tensorflow
 
-get_playlists.py - to get song features from Spotify using the SpotiPy package
+get_playlists.py - to get song features from a Spotify playlist using the SpotiPy package
 
 spotify_playlist_analysis.ipynb - an exploration of the song features data and its formatting followed by some machine learning predictions, with what is hopefully clear explanation interspersed throughout.
 
